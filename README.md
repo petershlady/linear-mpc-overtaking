@@ -8,9 +8,9 @@ This is used for a course project for the Stanford course AA203 - Optimal Contro
 
 ```
 MATLAB (Tested with MATLAB R2018b)
-[CVX](http://cvxr.com/cvx/) (Tested with version 3.0beta)
+CVX (Tested with version 3.0beta)
 ```
-When this was tested with CVX for MATLAB on Windows 10, it was necessary to use the SeDuMi solver. On MacOS and Ubuntu 16.04, the default SDPT3 solver worker fine. Try them both.
+When this was tested with [CVX](http://cvxr.com/cvx/) for MATLAB on Windows 10, it was necessary to use the SeDuMi solver. On MacOS and Ubuntu 16.04, the default SDPT3 solver worker fine. Try them both.
 
 ## Authors
 This work was performed by Peter Schleede (host of this repo), [Andrew Shoats](https://github.com/ashoats), and [Elliot Weiss](https://github.com/elliotdw).
